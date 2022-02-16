@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am nayem...
 -->
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="auto" height="40" />
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="500" height="40" />
 
 
