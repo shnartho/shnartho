@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am nayem...
 -->
 
-<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="1200" height="300" />
+<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="2000" height="300" />
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" align="left" width="900" height="500" />
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="900" height="500" />
