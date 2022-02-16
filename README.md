@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<!--
-**shnartho/shnartho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="1000" height="300" />
+<br>
+**Hola, Welcome to My Github 👋**
+<br>
 
 Here are some ideas to get you started:
 
@@ -13,9 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am nayem...
--->
-
-<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="1000" height="300" />
+- 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" align="left" width="700" height="500" />
 
 
