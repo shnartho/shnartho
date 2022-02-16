@@ -18,9 +18,24 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="1000" height="300" />
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" align="left" width="900" height="500" />
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; width="900" height="500" />
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="900" height="500" />
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container"> <!-- Block parent element -->
+      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="John Doe">
+    </div>
+  </body>
+</html>
+
 
 
