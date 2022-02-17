@@ -34,7 +34,7 @@
 ### Projects :calendar: 😊:
 #### Web Development Projects
 For now you can check my practice websites. I will add my projects later.<br>
-link: shnartho.github.io
+link: <b>shnartho.github.io</b>
 
 
 <br>
