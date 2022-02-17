@@ -33,23 +33,20 @@
 
 ### Projects :calendar: 😊:
 #### Web Development Projects
-For now you can check my practice websites. I will add my projects later.
+For now you can check my practice websites. I will add my projects later.<br>
 link: shnartho.github.io
 
 
-<br />
+<br>
 <p align="center">
 <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="100%" height="300" />
 </p>
 
-<br />
-<br />
+<br>
 
----
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&layout=compact)](https://github.com/shnartho/github-readme-stats)
 
-<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnartho&show_icons=true&locale=en" alt="shnartho" /></p>
 
