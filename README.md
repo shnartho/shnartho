@@ -45,10 +45,7 @@ will add details soon
 
 ---
 ## Github Stats
-
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shnartho&show_icons=true&locale=en&layout=compact" alt="shnartho" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&layout=compact)](https://github.com/shnartho/github-readme-stats)
 
 <br />
 
