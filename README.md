@@ -35,7 +35,7 @@
 #### Database Project
 ##### PHP, XAMPP, SQL, Dbeaver, CRUD  
 This is my university database project. I have created interface website to create, update, delete and remove data from database.<br>
-Link: <a href="https://github.com/shnartho/Database-Project-University">https://github.com/shnartho/Database-Project-University</a>
+Link: <a href="https://github.com/shnartho/Database-Project-University">github.com/shnartho/Database-Project-University</a>
 
 #### Web Development Projects
 For now you can check my practice websites. I will add my projects later.<br>
