@@ -39,7 +39,7 @@ Link: <a href="https://github.com/shnartho/Database-Project-University">https://
 
 #### Web Development Projects
 For now you can check my practice websites. I will add my projects later.<br>
-Link: <a href="https://github.com/shnartho">shnartho.github.io</a>
+Link: <a href="https://github.com/shnartho.github.io">shnartho.github.io</a>
 
 <br>
 <p align="center">
