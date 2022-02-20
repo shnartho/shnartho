@@ -37,8 +37,15 @@
 This is my university database project. I have created interface website to create, update, delete and remove data from database.<br>
 Link: <a href="https://github.com/shnartho/Database-Project-University">github.com/shnartho/Database-Project-University</a>
 
+#### Android Application Development 
+##### Android Studio, Java, XML
+Practice and projects.<br>
+Check: <a href="https://github.com/shnartho/Android-App-Development">Highlighted Projects</a><br>
+Check: <a href="https://github.com/shnartho/Android-Projects-Only-Java-Files">All Projects' Java Files</a>
+
 #### Web Development Projects
-For now you can check my practice websites. I will add my projects later.<br>
+##### PHP, Javascript, HTML, CSS
+For now you can check my practice websites. I will add my main projects later.<br>
 Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 
 <br>
