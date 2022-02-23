@@ -34,7 +34,7 @@
 ### Projects :calendar: 😊:
 #### Blockchain Project
 ##### node.js, javascript, npm
-Working on my own Blockchain and my startup 'MoslinMeta'
+Working on my own Blockchain and my startup 'MoslinMeta'<br>
 Link: <a href="https://github.com/shnartho/Blockchain-Project">github.com/shnartho/Database-Project-University</a>
 
 #### Database Project
