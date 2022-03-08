@@ -6,10 +6,10 @@
 ## A Tech-savvy :blush:
 
 - 🏃‍♂️ "Push harder than yesterday if you want a different tomorrow" :dart:
-- 💻 I’m currently working on my own Metaverse startup & NFT Project @RaceSkull 💥
+- 🥅 2022 Goals: Learn more about Blockchain, NFT, Metaverse, Web3 & MultiCloud Platforms :blush:
 - 💻 I’m currently learning everything 🔥
 - 👯 I’m looking to collaborate with other Blockchain Developers 🪙
-- 🥅 2022 Goals: Learn more about Blockchain, NFT, Metaverse, Web3 & MultiCloud Platforms :blush:
+
 - :dart: Stay focused , Stay focused, Stay focused 🔥 New year, New beginning ,Let's go 💪
 
 
