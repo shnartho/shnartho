@@ -58,7 +58,7 @@ Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&layout=compact)](https://github.com/shnartho/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&langs_count=8&theme=tokyonight)]()
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnartho&show_icons=true&locale=en" alt="shnartho" /></p>
