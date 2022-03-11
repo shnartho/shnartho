@@ -60,18 +60,18 @@
 <br>
 
 <a href="https://github.com/shnartho/Database-Project-University">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Database-Project-University&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Database-Project-University&theme=slateorange" />
 </a>
 <a href="https://github.com/shnartho/Programming-In-Scala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-In-Scala&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-In-Scala&theme=slateorange" />
 </a>
 <br>
 
 <a href="https://github.com/shnartho/Android-App-Development">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Android-App-Development&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Android-App-Development&theme=midnight-purple" />
 </a>
 <a href="https://github.com/shnartho/shnartho.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=shnartho.github.io&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=shnartho.github.io&theme=midnight-purple" />
 </a>
 <br>
 
