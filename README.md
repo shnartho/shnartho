@@ -53,14 +53,9 @@ Check: <a href="https://github.com/shnartho/Android-Projects-Only-Java-Files">Al
 For now you can check my practice websites. I will add my main projects later.<br>
 Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 
-<br>
-<p align="center">
-<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" align="center" width="100%" height="300" />
-</p>
+<h3>My Contribution Graph Eaten by The Snake🐍😆</h3>
+<img src="https://github.com/shnartho/shnartho/blob/output/github-contribution-grid-snake.gif"/>
 
-<br>
-![snake gif](https://github.com/shnartho/shnartho/blob/output/github-contribution-grid-snake.gif)
-<br>
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&layout=compact)](https://github.com/shnartho/github-readme-stats)
@@ -70,9 +65,6 @@ Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnartho&" alt="shnartho" /></p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="900" height="600" />
-</p>
 
 
 
