@@ -59,7 +59,7 @@ Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 </p>
 
 <br>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/shnartho/shnartho/blob/output/github-contribution-grid-snake.gif)
 <br>
 
 ## Github Stats
