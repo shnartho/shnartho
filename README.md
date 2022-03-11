@@ -59,6 +59,8 @@ Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 </p>
 
 <br>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<br>
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&layout=compact)](https://github.com/shnartho/github-readme-stats)
