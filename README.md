@@ -58,13 +58,15 @@ Link: <a href="https://shnartho.github.io/">shnartho.github.io</a>
 
 
 ## Github Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&langs_count=8&theme=tokyonight)]()
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnartho&show_icons=true&locale=en" alt="shnartho" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnartho&" alt="shnartho" /></p>
-
-
-
+<table>
+   <tr>
+    <td colspan="2" align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&theme=vue&langs_count=8" alt="shnartho" /></pr></td>
+  </tr>
+  <tr>
+    <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnartho&theme=chartreuse-dark&show_icons=true&locale=en" alt="shnartho" /></p></td>
+    <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnartho&theme=great-gatsby" alt="shnartho" /></p></td>
+  </tr>
+ 
+</table>
 
