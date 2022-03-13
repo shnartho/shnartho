@@ -71,5 +71,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=shnartho.github.io&theme=midnight-purple" />
 </a>
 <br>
-<br>
+
 
