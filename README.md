@@ -6,7 +6,7 @@
 ## A Tech-savvy :blush:
 
 - 🏃‍♂️ "Push harder than yesterday if you want a different tomorrow" :dart:
-- 🥅 2022 Goals: Learn more about Blockchain, NFT, Metaverse, Web3 & MultiCloud Platforms :blush:
+- 🥅 2022 Goals: Learn more about Blockchain, NFT, Metaverse, Web3, DevOps & MultiCloud Platforms :blush:
 - 💻 I’m currently learning everything 🔥
 - 👯 I’m looking to collaborate with other Blockchain Developers 🪙
 
