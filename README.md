@@ -48,6 +48,7 @@
  
 </table>
 
+<p align="center">
 <a href="https://github.com/shnartho/Blockchain-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Blockchain-Project&theme=dark" />
 </a>
@@ -80,5 +81,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=shnartho.github.io&theme=dark" />
 </a>
 <br>
+</p>
 
 
