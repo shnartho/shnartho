@@ -56,6 +56,14 @@
 </a>
 <br>
 
+<a href="https://github.com/shnartho/Linux-Server-Administration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Linux-Server-Administration&theme=midnight-purple" />
+</a>
+<a href="https://github.com/shnartho/Python-Scripting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=midnight-purple" />
+</a>
+<br>
+
 <a href="https://github.com/shnartho/Database-Project-University">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Database-Project-University&theme=slateorange" />
 </a>
@@ -64,13 +72,6 @@
 </a>
 <br>
 
-<a href="https://github.com/shnartho/Linux-Server-Administration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Linux-Server-Administration&theme=midnight-purple" />
-</a>
-<a href="https://github.com/shnartho/Python-Scripting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=midnight-purple" />
-</a>
-<br>
 
 <a href="https://github.com/shnartho/Android-App-Development">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Android-App-Development&theme=dark" />
