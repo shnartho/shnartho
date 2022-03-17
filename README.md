@@ -7,7 +7,7 @@
 
 - 🏃‍♂️ "Push harder than yesterday if you want a different tomorrow" :dart:
 - 🥅 2022 Goals: Learn more about Blockchain, Web3, DevOps & MultiCloud Platforms :blush:
-- 👯 I’m looking to collaborate with other Blockchain Developers 🪙
+- 👯 I’m looking to collaborate with other Blockchain Developers 👨‍🎓
 - :dart: Stay focused , Stay focused, Stay focused 🔥 New year, New beginning ,Let's go 💪
 
 
