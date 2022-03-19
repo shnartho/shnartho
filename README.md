@@ -11,7 +11,7 @@
 - :dart: Stay focused , Stay focused, Stay focused 🔥 New year, New beginning ,Let's go 💪
 
 
-### Connect with me :telescope: :
+### Connect with me :telescope::
 <p align="left">
 <a href="https://twitter.com/shnartho1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shnartho1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shnartho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shnartho" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 <img src="https://github.com/shnartho/shnartho/blob/output/github-contribution-grid-snake.gif"/>
 
 
-## Github Stats
+## Github Stats 🗓️
 
 <table>
    <tr>
