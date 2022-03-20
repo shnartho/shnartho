@@ -6,7 +6,7 @@
 ## A Tech-savvy :blush:
 
 - 🏃‍♂️ "Push harder than yesterday if you want a different tomorrow" 🔥
-- 🥅 2022 Goals: Learn more about Blockchain, Web3, DevOps & MultiCloud Platforms 🎯
+- 🥅 2022 Goals: Learn more about DevOps,Blockchain, Web3 & MultiCloud Platforms 🎯
 - 👯 I’m looking to collaborate with other Blockchain Developers 👨‍🎓
 - :dart: Stay focused , Stay focused, Stay focused 🔥 New year, New beginning ,Let's go 💪
 
