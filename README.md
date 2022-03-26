@@ -47,8 +47,8 @@
 </table>
 
 <p align="center">
-<a href="https://github.com/shnartho/Blockchain-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Blockchain-Project&theme=dark" />
+ <a href="https://github.com/shnartho/Full-Stack-eCommerce-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Full-Stack-eCommerce-Website&theme=dark" />
 </a>
 <a href="https://github.com/shnartho/Programming-Paradigms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-Paradigms&theme=dark" />
@@ -70,14 +70,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-In-Scala&theme=slateorange" />
 </a>
 <br>
-
-
+<a href="https://github.com/shnartho/Blockchain-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Blockchain-Project&theme=dark" />
+</a>
 <a href="https://github.com/shnartho/Android-App-Development">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Android-App-Development&theme=dark" />
 </a>
-<a href="https://github.com/shnartho/shnartho.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=shnartho.github.io&theme=dark" />
-</a>
+
 <br>
 </p>
 
