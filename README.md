@@ -50,25 +50,26 @@
  <a href="https://github.com/shnartho/Full-Stack-eCommerce-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Full-Stack-eCommerce-Website&theme=dark" />
 </a>
-<a href="https://github.com/shnartho/Programming-Paradigms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-Paradigms&theme=dark" />
+  <a href="https://github.com/shnartho/Python-Scripting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=dark" />
 </a>
-<br>
 
 <a href="https://github.com/shnartho/Linux-Server-Administration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Linux-Server-Administration&theme=midnight-purple" />
 </a>
-<a href="https://github.com/shnartho/Python-Scripting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=midnight-purple" />
+   <a href="https://github.com/shnartho/Programming-In-Scala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-In-Scala&theme=midnight-purple" />
 </a>
+<br>
 <br>
 
 <a href="https://github.com/shnartho/Database-Project-University">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Database-Project-University&theme=slateorange" />
 </a>
-<a href="https://github.com/shnartho/Programming-In-Scala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-In-Scala&theme=slateorange" />
+ <a href="https://github.com/shnartho/Programming-Paradigms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-Paradigms&theme=slateorange" />
 </a>
+
 <br>
 <a href="https://github.com/shnartho/Blockchain-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Blockchain-Project&theme=dark" />
