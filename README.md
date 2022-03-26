@@ -50,8 +50,8 @@
  <a href="https://github.com/shnartho/Full-Stack-eCommerce-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Full-Stack-eCommerce-Website&theme=dark" />
 </a>
-  <a href="https://github.com/shnartho/Python-Scripting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=dark" />
+  <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=&theme=dark" />
 </a>
 <a href="https://github.com/shnartho/Linux-Server-Administration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Linux-Server-Administration&theme=midnight-purple" />
