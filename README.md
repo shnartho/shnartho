@@ -37,7 +37,7 @@
 
 <table>
    <tr>
-    <td colspan="2" align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&theme=vue&langs_count=10" alt="shnartho" /></pr></td>
+    <td colspan="2" align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&hide=java&theme=vue&langs_count=10" alt="shnartho" /></pr></td>
   </tr>
   <tr>
     <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnartho&theme=chartreuse-dark&show_icons=true&locale=en" alt="shnartho" /></p></td>
