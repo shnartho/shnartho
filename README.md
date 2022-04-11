@@ -5,11 +5,11 @@
 
 ## A Tech-savvy 👨‍💻😊:
 
-- 🏃‍♂️ "Push harder than yesterday if you want a different tomorrow" 🔥
+- 👨‍🎓 Studying in Polytechnic Institute of Braganca 🇵🇹 🔥 Erusmus Study at Wroclaw University of Science & Technology 🇵🇱
+- 📗 Major: Computer Science Engineering 💌
+- 👷 Worked at Sitel Polska & Instacart Delivery Service USA 🛒
 - 🥅 2022 Goals: Learn more about DevOps,Blockchain, Web3 & MultiCloud Platforms 🎯
-- 👯 I’m looking to collaborate with other Blockchain Developers 👨‍🎓
-- :dart: Stay focused , Stay focused, Stay focused 🔥 New year, New beginning ,Let's go 💪
-
+- 👯 I’m looking to collaborate with other Blockchain Developers 👨‍🎓 New year, New beginning ,Let's go 💪
 
 ### 🔴 Connect with me :telescope:👨‍🎓:
 <p align="left">
