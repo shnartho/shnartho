@@ -51,6 +51,12 @@
   <a href="https://github.com/shnartho/Python-Scripting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=dark" />
 </a>
+<a href="https://github.com/shnartho/Distributed-Computer-Systems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Distributed-Computer-Systems&theme=slateorange" />
+</a>
+ <a href="https://github.com/shnartho/Programming-Multimedia-Applications">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-Multimedia-Applications&theme=slateorange" />
+</a>
 <a href="https://github.com/shnartho/Linux-Server-Administration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Linux-Server-Administration&theme=midnight-purple" />
 </a>
