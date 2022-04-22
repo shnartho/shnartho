@@ -4,7 +4,7 @@
 
 ## About Myself 👨‍💻😊:
 - 👨‍🎓 Name : Md Shahadat Hossen Nayem 😊
-- 👨‍🎓 Studying in Polytechnic Institute of Braganca 🇵🇹 Erusmus Study at Wroclaw University of Science & Technology 🇵🇱
+- 👨‍🎓 Studying in Polytechnic Institute of Braganca 🇵🇹 Erusmu.s Study at Wroclaw University of Science & Technology 🇵🇱
 - 📗 Major: Computer Science Engineering 💌
 - 👷 Worked at Sitel Polska & Instacart Delivery Service USA as Customer Support 🛒
 - 🥅 2022 Goals: Learn more about DevOps, Blockchain, Web3 & MultiCloud Platforms 🎯
