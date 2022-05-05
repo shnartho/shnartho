@@ -3,9 +3,9 @@
 - 👨‍🎓 Name : Md Shahadat Hossen Nayem 😊
 - 👨‍🎓 Studying in Polytechnic Institute of Braganca 🇵🇹 Erusmus Study at Wroclaw University of Science & Technology 🇵🇱
 - 📗 Major: Computer Science Engineering 💌
-- 👨‍🏫 Experience: Python Programming Teacher at Algorithmics 🔢
+- 👨‍🏫 Working as Python Programming Teacher at Algorithmics 🔢
 - 👷 Worked at Sitel Polska & Instacart Delivery Service USA as Customer Support 🛒
-- 🥅 2022 Goals: Learn more about DevOps, Blockchain, Web3 & MultiCloud Platforms 🎯
+- 🥅 2022 Goals: Learn more about Data Science, DevOps, Blockchain, Web3 & MultiCloud Platforms 🎯
 
 ### 🔴 Connect with me :telescope:👨‍🎓:
 <p align="left">
