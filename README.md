@@ -1,6 +1,6 @@
 
 ## About Myself 👨‍💻😊:
-- 👨‍🎓 Name : Md Shahadat Hossen Nayem😊
+- 👨‍🎓 Name : Md Shahadat Hossen Nayem 😊
 - 👨‍🎓 Studying in Polytechnic Institute of Braganca 🇵🇹 Erusmus Study at Wroclaw University of Science & Technology 🇵🇱
 - 📗 Major: Computer Science Engineering 💌
 - 👨‍🏫 Working as Python Programming Teacher at Algorithmics 🔢
