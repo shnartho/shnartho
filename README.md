@@ -5,7 +5,7 @@
 - 📗 Major: Computer Science Engineering 💌
 - 👨‍🏫 Working as Python Programming Teacher at Algorithmics 🔢
 - 👷 Worked at Sitel Polska & Instacart Delivery Service USA as Customer Support 🛒
-- 🥅 2022 Goals: Learn more about DevOps tools & MultiCloud Platforms 🎯
+- 📆 2022 Goals: Learn more about DevOps tools & MultiCloud Platforms 🎯
 
 ### 🔴 Connect with me :telescope:👨‍🎓:
 <p align="left">
