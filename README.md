@@ -1,19 +1,12 @@
-Backend Developer | DevOps Engineer | Cloud Enthusiast
+🔰 Backend Developer | DevOps Engineer | Cloud Enthusiast 🔰
 
 🌟 Experienced Backend Developer with a strong focus on distributed systems, gRPC, RPC, and GoLang.
 🌟 Proficient in designing and implementing scalable architectures for cloud-based applications.
 🌟 Skilled in using messaging systems like Kafka and RabbitMQ for efficient data processing.
-🌟 Experienced in Python and SQL, enabling me to work with diverse databases and handle complex data operations.
-🌟 Proven track record in leveraging GCP and AWS to build and deploy cloud-native applications.
-🌟 Well-versed in cloud computing principles and adept at optimizing infrastructure for performance and cost-efficiency.
-🌟 Adept at DevOps practices, implementing CI/CD pipelines and automating deployment processes.
-🌟 Committed to SRE (Site Reliability Engineering) principles to ensure highly reliable and available systems.
+🌟 Experienced in Python and SQL, proven track record in leveraging GCP and AWS to build and deploy cloud-native applications.
+🌟 Committed to DevOps practices, implementing CI/CD pipelines, SRE (Site Reliability Engineering) principles to ensure highly reliable and available systems.
 
-🔧 Currently, I am utilizing my expertise in GoLang to develop robust and scalable backend solutions. My experience in distributed programming and proficiency with cloud platforms like GCP and AWS allow me to build resilient and scalable applications.
-
-I am passionate about staying updated with the latest technologies and continuously enhancing my skills. With a strong foundation in backend development, DevOps, and cloud computing, I am well-equipped to tackle the challenges of modern software development.
-
-Let's connect! I am open to new opportunities, collaboration, and discussing how I can contribute to your projects and organization.
+🔧 Currently, I am utilizing my expertise in GoLang. I am passionate about staying updated with the latest technologies and continuously enhancing my skills. Let's connect! I am open to new opportunities, collaboration, and discussing how I can contribute to your projects and organization.✌️
 
 #BackendDevelopment #DevOps #CloudComputing #GoLang #Python #DistributedSystems #gRPC #Kafka #RabbitMQ #GCP #AWS #SRE
 
