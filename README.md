@@ -1,14 +1,6 @@
 🔰 Backend Developer | DevOps Engineer | Cloud Enthusiast 🔰
 
-🌟 Experienced Backend Developer with a strong focus on distributed systems, gRPC, RPC, and GoLang.
-🌟 Proficient in designing and implementing scalable architectures for cloud-based applications.
-🌟 Skilled in using messaging systems like Kafka and RabbitMQ for efficient data processing.
-🌟 Experienced in Python and SQL, proven track record in leveraging GCP and AWS to build and deploy cloud-native applications.
-🌟 Committed to DevOps practices, implementing CI/CD pipelines, SRE (Site Reliability Engineering) principles to ensure highly reliable and available systems.
-
-🔧 Currently, I am utilizing my expertise in GoLang. I am passionate about staying updated with the latest technologies and continuously enhancing my skills. Let's connect! I am open to new opportunities, collaboration, and discussing how I can contribute to your projects and organization.✌️
-
-#BackendDevelopment #DevOps #CloudComputing #GoLang #Python #DistributedSystems #gRPC #Kafka #RabbitMQ #GCP #AWS #SRE
+🌟 Experienced Backend Developer specialized in distributed systems, gRPC, RPC, and GoLang. Skilled in scalable cloud-based architectures using Kafka and RabbitMQ. Proficient in Python, SQL, and deploying cloud-native apps on GCP and AWS. Committed to DevOps, CI/CD, and SRE for reliable systems. Open to new opportunities, collaboration, and discussing project contributions.✌️ 
 
 ### 🔴 Hands-on Practice Tools :black_nib:🖥️: 
 <p align="left"> 
