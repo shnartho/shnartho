@@ -16,6 +16,9 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a>
+  <a href="https://www.argocd.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="50" height="40"/> 
+  </a>
    <a href="https://www.kafka.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/> 
   </a>
