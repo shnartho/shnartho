@@ -82,7 +82,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Holiday-Planner-FullStackWebApp&theme=dark" />
 </a>
   <a href="https://github.com/shnartho/Restaurant-Management-Backend-Using-Golang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Restaurant-Management-Backend-Using-Golangg&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Restaurant-Management-Backend-Using-Golang&theme=dark" />
 </a>
  <a href="https://github.com/shnartho/Full-Stack-eCommerce-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Full-Stack-eCommerce-Website&theme=slateorange" />
