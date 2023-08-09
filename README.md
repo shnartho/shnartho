@@ -78,11 +78,17 @@
 </table>
 
 <p align="center">
+  <a href="https://github.com/shnartho/Holiday-Planner-FullStackWebApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Holiday-Planner-FullStackWebApp&theme=dark" />
+</a>
+  <a href="https://github.com/shnartho/Restaurant-Management-Backend-Using-Golang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Restaurant-Management-Backend-Using-Golangg&theme=dark" />
+</a>
  <a href="https://github.com/shnartho/Full-Stack-eCommerce-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Full-Stack-eCommerce-Website&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Full-Stack-eCommerce-Website&theme=slateorange" />
 </a>
   <a href="https://github.com/shnartho/Python-Scripting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Python-Scripting&theme=slateorange" />
 </a>
 <a href="https://github.com/shnartho/Distributed-Computer-Systems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Distributed-Computer-Systems&theme=slateorange" />
@@ -95,21 +101,6 @@
 </a>
    <a href="https://github.com/shnartho/Programming-In-Scala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-In-Scala&theme=midnight-purple" />
-</a>
-<br>
-<a href="https://github.com/shnartho/Database-Project-University">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Database-Project-University&theme=slateorange" />
-</a>
- <a href="https://github.com/shnartho/Programming-Paradigms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Programming-Paradigms&theme=slateorange" />
-</a>
-
-<br>
-<a href="https://github.com/shnartho/Blockchain-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Blockchain-Project&theme=dark" />
-</a>
-<a href="https://github.com/shnartho/Android-App-Development">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Android-App-Development&theme=dark" />
 </a>
 
 <br>
