@@ -77,6 +77,7 @@
  
 </table>
 
+<!--
 <p align="center">
   <a href="https://github.com/shnartho/Holiday-Planner-FullStackWebApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shnartho&repo=Holiday-Planner-FullStackWebApp&theme=dark" />
@@ -105,5 +106,6 @@
 
 <br>
 </p>
+-->
 
 
