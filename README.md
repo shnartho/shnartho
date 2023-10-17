@@ -1,8 +1,8 @@
-🔰 Backend Developer | DevOps Engineer | Cloud Enthusiast 🔰
+#### 🔰 Backend Developer | DevOps Engineer | Cloud Enthusiast 🔰
 
 🌟 Experienced Backend Developer specialized in distributed systems, gRPC, RPC, and GoLang. Skilled in scalable cloud-based architectures using Kafka and RabbitMQ. Proficient in Python, SQL, and deploying cloud-native apps on GCP and AWS. Committed to DevOps, CI/CD, and SRE for reliable systems. Open to new opportunities, collaboration, and discussing project contributions.✌️ 
 
-### 🔴 Hands-on Practice Tools :black_nib:🖥️: 
+#### 🔴 Hands-on Practice Tools :black_nib:🖥️: 
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -60,12 +60,12 @@
   </a>    
 </p>
 
-### 🔴 Languages ✍️💻:
+#### 🔴 Languages ✍️💻:
 
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/svg/golang_3.svg" alt="golang" width="70" height="60"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="60"/> </a>&nbsp;<a href="https://www.rust.org" target="_blank" rel="noreferrer"> <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="python" width="55" height="65"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> </a>  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="25" height="25"/> </a> </p>
 
-## Github Stats 📗
+#### Github Stats 📗
 <table>
     <td colspan="2" align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&hide=java,css,kotlin,cmake,makefile,scss,less,html,php&layout=compact&theme=vue&langs_count=10" alt="shnartho" /></pr></td>
   <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnartho&theme=great-gatsby" alt="shnartho" /></p></td>
