@@ -67,14 +67,8 @@
 
 ## Github Stats 📗
 <table>
-   <tr>
     <td colspan="2" align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnartho&hide=java,css,kotlin,cmake,makefile,scss,less,html,php&layout=compact&theme=vue&langs_count=10" alt="shnartho" /></pr></td>
-  </tr>
-  <tr>
-    <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnartho&theme=chartreuse-dark&show_icons=true&locale=en" alt="shnartho" /></p></td>
-    <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnartho&theme=great-gatsby" alt="shnartho" /></p></td>
-  </tr>
- 
+  <td align="center"><p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnartho&theme=great-gatsby" alt="shnartho" /></p></td>
 </table>
 
 <!--
