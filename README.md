@@ -1,4 +1,4 @@
-#### 🔰 Backend Developer | DevOps Engineer | Cloud Enthusiast 🔰
+#### 🔰 Backend Developer | DevOps Engineer | Blockchain Enthusiast 🔰
 
 🌟 Experienced Backend Developer specialized in distributed systems, gRPC, RPC, and GoLang. Skilled in scalable cloud-based architectures using Kafka and RabbitMQ. Proficient in Python, SQL, and deploying cloud-native apps on GCP and AWS. Committed to DevOps, CI/CD, and SRE for reliable systems. Open to new opportunities, collaboration, and discussing project contributions.✌️ 
 
