@@ -1,4 +1,4 @@
-🔰 Senior Software Engineer | AI/ML Systems | Cloud & DevOps Leadership 🔰
+#### 🔰 Senior Software Engineer | AI/ML Systems | Cloud & DevOps Leadership 🔰
 
 Seasoned engineer with deep expertise in distributed systems, large-scale cloud infrastructure, and AI/ML platforms. Proven track record in architecting resilient, high-performance systems and driving end-to-end delivery from design to production across AWS and GCP. Strong background in MLOps, SRE, and CI/CD, ensuring scalability, reliability, and business impact.
 
