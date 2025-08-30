@@ -1,6 +1,6 @@
-#### 🔰 Software Engineer | DevOps Engineer | Blockchain Enthusiast 🔰
+🔰 Senior Software Engineer | AI/ML Systems | Cloud & DevOps Leadership 🔰
 
-🌟 Experienced Backend Developer specialized in distributed systems, gRPC, RPC, and GoLang. Skilled in scalable cloud-based architectures using Kafka and RabbitMQ. Proficient in Python, SQL, and deploying cloud-native apps on GCP and AWS. Committed to DevOps, CI/CD, and SRE for reliable systems. Open to new opportunities, collaboration, and discussing project contributions.✌️ 
+Seasoned engineer with deep expertise in distributed systems, large-scale cloud infrastructure, and AI/ML platforms. Proven track record in architecting resilient, high-performance systems and driving end-to-end delivery from design to production across AWS and GCP. Strong background in MLOps, SRE, and CI/CD, ensuring scalability, reliability, and business impact.
 
 #### Github Stats 📗
 <table>
